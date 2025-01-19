@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "brooks-consulting-site",
+			"path": ".."
+		},
+		{
+			"name": "BCC_LOGOS",
+			"path": "../../../BCC_LOGOS"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "brooks-consulting-site"
+	}
+}
